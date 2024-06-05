@@ -10,7 +10,7 @@
 https://youtu.be/5PdEmeopJVQ
   
 ## Demo of Movies Web App
-https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/c146b9e5-320f-4d12-9f1f-895599a06523
+![image](https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/3a0f0d4a-2e6d-42d5-b673-37d1010937fe)
 
 
 
