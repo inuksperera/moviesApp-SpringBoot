@@ -1,4 +1,4 @@
-![image](https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/b54539b7-9fd2-4310-b7e5-168812a58f49)# Movies Web Application using Java SpringBoot, MongoDB and ReactJS   
+# Movies Web Application using Java SpringBoot, MongoDB and ReactJS   
 
 ## A web application that displays a list of movies with their poster and title
 
