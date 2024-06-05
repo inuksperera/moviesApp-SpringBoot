@@ -17,6 +17,8 @@ https://youtu.be/5PdEmeopJVQ
 ## REST API Screenshots
 
 ![image](https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/4c471d63-ffdf-4128-929c-9b4299193b0a)
+![image](https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/4c3c3f12-03bc-4745-b630-5574994ed2b9)
+
 
 
 
