@@ -9,6 +9,8 @@
 ## YouTube tutorial followed for the project:
 https://youtu.be/5PdEmeopJVQ
   
+## Demo of Movies Web App
+https://github.com/inuksperera/moviesApp-SpringBoot/assets/110172780/c146b9e5-320f-4d12-9f1f-895599a06523
 
 
 
