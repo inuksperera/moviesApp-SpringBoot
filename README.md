@@ -3,10 +3,15 @@
 ## A web application that displays a list of movies with their poster and title
 
 *Built a REST API using Java Spring Boot
+
 *Used MongoDB Atlas to store and manage movie data
+
 *Used MongoDB Compass to view and interact with the database
+
 *Developed the frontend using ReactJS
+
 *Used Axios to retrieve movie data from the REST API
+
 
 ## YouTube tutorial followed for the project:
 https://youtu.be/5PdEmeopJVQ
